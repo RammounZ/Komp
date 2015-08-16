@@ -1,5 +1,5 @@
 package komp;
-// Я так понял, что с помощью СД-рома можно проверить компьютер на вирусы.
+
 public class Cdrom {
     private boolean status;
     
